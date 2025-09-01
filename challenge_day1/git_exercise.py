@@ -2,7 +2,7 @@ import david
 import sophie
 import riya
 import thessa 
-import juilia
+import julia
 
 
 def team_intro():
