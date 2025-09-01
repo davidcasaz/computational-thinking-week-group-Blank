@@ -1,4 +1,4 @@
 def introduce_team():
-    print("Hi Im Thessa")
+    print("Thessa")
 
 introduce_team()
