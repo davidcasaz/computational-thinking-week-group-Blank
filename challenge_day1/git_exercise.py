@@ -1,8 +1,4 @@
-def get_name():
-    return "David"
-def get_name():
-    return "Julia"
-def introduce_team():
-    print("Thessa")
-
-introduce_team()
+import file 
+import challenge_1_sohpie
+import test
+import my_name
