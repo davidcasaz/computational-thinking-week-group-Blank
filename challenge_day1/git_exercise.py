@@ -1,7 +1,9 @@
-import file 
-import challenge_1_sohpie
-import test
-import my_name
+import david
+import sophie
+import riya
+import thessa 
+import juilia
+
 
 def team_intro():
     print("This is Blank. We are:")
