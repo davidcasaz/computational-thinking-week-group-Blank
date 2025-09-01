@@ -1,4 +1,3 @@
-def introduce_team():
-    print("Thessa")
+def get_name():
+    return "Thessa"
 
-introduce_team()

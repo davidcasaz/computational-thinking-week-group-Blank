@@ -1,3 +1,3 @@
-def your_name():
-    print("Riya")
+def get_name():
+    return "Riya"
     
