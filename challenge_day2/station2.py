@@ -21,7 +21,7 @@ def solution_station_2(date_str: str) -> str:
         6: "日曜日"   # Sunday
     }
     
-    return solution_station_2[weekday_index]
+    return japanese_days[weekday_index]
 
 
 

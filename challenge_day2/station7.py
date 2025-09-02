@@ -9,5 +9,5 @@ def solution_station_7(equation: str) -> float:
     }
     
     # Evaluate the expression using these values
-    return eval(equation, {}, values)
+    return float(eval(equation, {}, values))
 
