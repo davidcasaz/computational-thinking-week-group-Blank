@@ -1,4 +1,4 @@
-def is_prime(n: int) -> bool:
+def solution_station_4(n: int) -> bool:
     if n <= 1:
         return False
     if n <= 3:
