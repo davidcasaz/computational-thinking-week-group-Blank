@@ -99,7 +99,3 @@ Ella,good,good,low,low,low,good,2.8,Promising
 Maureen,low,low,low,low,super,super,2.6,Good but inconsistent
 Wanda,middle,low,super,low,low,super,2.8,Good but inconsistent
 Angela,super,super,good,low,low,super,3.6,Excellent
-iddle,middle,good,3.2
-Maureen,low,low,middle,low,super,super,2.8,Good but inconsistent
-Wanda,good,low,super,low,low,super,3,Excellent
-Angela,super,super,good,low,low,super,3.6,Excellent
