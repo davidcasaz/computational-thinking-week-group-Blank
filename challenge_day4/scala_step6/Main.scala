@@ -9,10 +9,10 @@ object Main {
       case (line, 0) => s"$line,Comments"
       case (line, _) =>
         val parts = line.split(",")
-        if (parts.length < 9) line // skip invalid lines
+        if (parts.length < 8) line // skip invalid lines
         else {
-          val summary = parts(7)
-          val evaluation = parts(8).toFloat
+          val summary = parts(6)
+          val evaluation = parts(7).toFloat
           val comments = (summary, evaluation) match {
             case ("super", e) if e >= 3 => "Excellent"  
             case ("super", _) => "Good but inconsistent"
