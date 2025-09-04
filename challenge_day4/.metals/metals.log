@@ -149,3 +149,12 @@ INFO: Unsupported notification method: $/setTrace
 2025.09.04 13:03:51 WARN  Build server is not auto-connectable.
 Sep 04, 2025 1:04:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2025.09.04 13:46:06 INFO  no build target found for C:\Users\david\OneDrive - UvA\Documents\Group-Blank\computational-thinking-week-group-Blank\challenge_day4\scala_step6\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 13:46:06 INFO  no build target found for C:\Users\david\OneDrive - UvA\Documents\Group-Blank\computational-thinking-week-group-Blank\challenge_day4\scala_step6\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 13:46:06 WARN  no build target for: C:\Users\david\OneDrive - UvA\Documents\Group-Blank\computational-thinking-week-group-Blank\challenge_day4\scala_step6\Main.scala
+2025.09.04 13:46:09 INFO  no build target found for C:\Users\david\OneDrive - UvA\Documents\Group-Blank\computational-thinking-week-group-Blank\challenge_day4\scala_step6\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 13:46:09 INFO  no build target found for C:\Users\david\OneDrive - UvA\Documents\Group-Blank\computational-thinking-week-group-Blank\challenge_day4\scala_step6\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 13:46:09 INFO  no build target found for C:\Users\david\OneDrive - UvA\Documents\Group-Blank\computational-thinking-week-group-Blank\challenge_day4\scala_step6\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 13:46:10 INFO  no build target found for C:\Users\david\OneDrive - UvA\Documents\Group-Blank\computational-thinking-week-group-Blank\challenge_day4\scala_step6\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.04 13:46:15 INFO  time: code lens generation in 5.57s
+2025.09.04 13:47:02 INFO  no build target found for C:\Users\david\OneDrive - UvA\Documents\Group-Blank\computational-thinking-week-group-Blank\challenge_day4\scala_step6\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
