@@ -3,7 +3,7 @@ SummaryMetaTable = {
     __add = function (left, right)
         local newSummary = {super=0, good=0, middle=0, low=0}
         for k, v in pairs(left) do
-            newSummary[k] = v + right[k]
+            newSummary[k] = (v or 0) + (right[k] or 0)
         end
         return newSummary
     end
@@ -11,7 +11,7 @@ SummaryMetaTable = {
 
 -- Read data from `data4.txt`
 local lines = {}
-for line in io.lines("data4.txt") do
+for line in io.lines("../testdata/data4.txt") do
     table.insert(lines, line)
 end
 
@@ -35,7 +35,7 @@ for _, line in ipairs(lines) do
     if summary.super > 0 then
         finalSummary = "super"
     elseif summary.good >= 2 then
-        finalSummaries = "good"
+        finalSummary = "good"
     elseif summary.middle >= 3 then
         finalSummary = "middle"
     else
@@ -52,3 +52,4 @@ for _, entry in ipairs(people) do
     out:write(table.concat(entry, ',') .. "\n")
 end
 out:close()
+
